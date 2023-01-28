@@ -13,6 +13,3 @@ export default makeStyles(() => ({
     height: '70px',
   },
 }));
-
-
-
